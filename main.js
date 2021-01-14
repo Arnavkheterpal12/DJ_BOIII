@@ -1,6 +1,6 @@
 song="";
 function preload(){
-    song=loadSound("Imagine Dragons- Believer.mp3");
+    song=loadSound("Imagine Dragons - Believer.mp3");
 }
 function setup(){
     canvas=createCanvas(600,500);
